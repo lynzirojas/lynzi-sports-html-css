@@ -1,0 +1,58 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 62.5%;
+}
+
+article {
+  max-width: 620px;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-left: auto;
+}
+
+p, ol, blockquote {
+  font-size: 1.2rem;
+  line-height: 1.7rem;
+  margin: 5px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Ubuntu, Arial, sans-serif;
+  margin: 5px 0;
+}
+
+h1 {
+  font-size: 2.50rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-size: 1rem;
+}
+
+#headline p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .85rem;
+}
+
+#credit {
+  text-align: right;
+  margin-top: 5px;
+}
+
+blockquote {
+  border-left: 4px grey solid;
+  padding-left: 20px;
+  margin-left: 20px;
+}
+
+li {
+  list-style-position: inside;
+}
+
+#rankings h3 {
+  margin: 10px 0;
+}
